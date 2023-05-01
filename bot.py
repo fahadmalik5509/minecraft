@@ -1,5 +1,5 @@
 availabilityDomains = ["psan:AP-MUMBAI-1-AD-1"]
-displayName = 'Minecraft'
+displayName = 'instance-20230501-1240'
 compartmentId = 'ocid1.tenancy.oc1..aaaaaaaa7nbaw2wjtenj4loj3e5f5nvrojyvufxayuku5hp3lps7z7orkz5a'
 imageId = "ocid1.image.oc1.ap-mumbai-1.aaaaaaaaiheiut5idjoafisqfie4olvlytl6w5njkpf5qmjuzpjlwb43kctq"
 subnetId = 'ocid1.subnet.oc1.ap-mumbai-1.aaaaaaaa3o7zvvsjkadac6uvoqcwkybviajbwxhmxe7slnb77oynj2a4muv'
